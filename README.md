@@ -115,7 +115,7 @@ Nice to haves: These will be features that will be nice to have, if there is eno
 
 ### Architecture Diagram
 
-!()
+![Architecture Diagram]()
 
 ### Dataflow Diagram
 
