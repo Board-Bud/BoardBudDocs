@@ -115,14 +115,21 @@ Nice to haves: These will be features that will be nice to have, if there is eno
 
 ### Architecture Diagram
 
-![Architecture Diagram]()
+![Architecture Diagram](/docs/ArchitectureDiagram.png)
 
 ### Dataflow Diagram
 
 For my dataflow diagram I followed this style guide I found online <https://www.lucidchart.com/pages/data-flow-diagram/data-flow-diagram-symbols>
 
+![DataFlow Diagram](/docs/DataflowDiagram.png)
 
 ### Wireframes
+
+![LogIn Page](/docs/LoginPage.jpeg)
+
+![Boards Page](/docs/BoardPage.jpeg)
+
+![Booking Page](/docs/BookingPage.jpeg)
 
 ### Planning Methodology
 
@@ -134,3 +141,12 @@ By using GitHub Projects I can drag cards into the In progress or Done columns t
 
 ### GitHub Projects Screenshots
 
+![](/docs/GitHub%20Projects%201.png)
+
+![](/docs/GitHub%20Projects%202.png)
+
+![](/docs/GitHub%20Projects%203.png)
+
+![](/docs/GitHub%20Projects%204.png)
+
+![]()
