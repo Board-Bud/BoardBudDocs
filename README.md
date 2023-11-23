@@ -1,10 +1,14 @@
 # BoardBudDocs
 
-## 
+## Nicholas Ward T3A2-A
 
 ### Description
 
 BoardBud is a surfboard booking tool that allows Users to hire a variety of different surfboards from my local surfshop.
+
+GitHub Repository : <https://github.com/Board-Bud/BoardBudDocs>
+
+---
 
 ### Purpose
 
@@ -21,6 +25,8 @@ Enhanced Customer Experience: A well-designed website can contribute to an enhan
 Marketing Opportunities: A surfboard booking website serves as an additional marketing tool. Through online promotions, discounts, and targeted advertising, we can attract new customers and retain existing ones both online and in the physical store.
 
 Adaptation to Industry Trends: Embracing online booking aligns with current industry trends. Many customers prefer the convenience of digital services, and having a surfboard booking website positions our business as forward-thinking and customer-centric. Staying ahead of industry trends is crucial for maintaining competitiveness in the market.
+
+---
 
 ### Functionality/features
 
@@ -50,12 +56,16 @@ Nice to haves: These will be features that will be nice to have, if there is eno
 - Review/comment system for the surfboards?
 - advertisement banners?
 
+---
+
 ### Target Audience
 
 - People who have travelled / are on holiday and could not take their own surfboard with them
 - Beginner surfers who want to try a few different boards, enabling them to purchase one that suits them best
 - Intermediate to advanced level surfers looking to upgrade their current board. This would allow them to try out different options before buying
 - Staff at the Surf shop, to make managing inventory and reservations easier and more efficient
+
+---
 
 ### Tech Stack
 
@@ -97,6 +107,8 @@ Nice to haves: These will be features that will be nice to have, if there is eno
 - Figma
 - Draw.io
 
+---
+
 ### User Stories
   
 1. As a Surfer, I want to easily browse the available surfboard options, so that I can choose the one that suits my preferences and skill level.
@@ -113,9 +125,13 @@ Nice to haves: These will be features that will be nice to have, if there is eno
 
 7. As a Shop Staff Member, I want a user-friendly dashboard to manage surfboard inventory and reservations, so that I can efficiently handle customer bookings and maintain accurate stock levels.
 
+---
+
 ### Architecture Diagram
 
 ![Architecture Diagram](/docs/ArchitectureDiagram.png)
+
+---
 
 ### Dataflow Diagram
 
@@ -123,13 +139,26 @@ For my dataflow diagram I followed this style guide I found online <https://www.
 
 ![DataFlow Diagram](/docs/DataflowDiagram.png)
 
+---
+
 ### Wireframes
+
+I have decided to keep the design of the website nice and simple, to enable the users to have an easy to navigate website with minimal clutter. This will make booking surfboards more efficient and a more enjoyable experience.  
+Here is a link to my Figma page: <https://www.figma.com/file/0A3Yrw4ZJ1BM5LOME2sXDv/BoardBud?type=design&node-id=1%3A31&mode=design&t=ZxfcpvqoZrytt2H5-1>
+
+The LogIn Page will also act as the homepage. Users and admins will be able to log in using a username and password, or create an account.
 
 ![LogIn Page](/docs/LoginPage.jpeg)
 
+The Boards Page will be a card style list. Each card will consist of an image, the board type, a description, a price, and a book now button.
+
 ![Boards Page](/docs/BoardPage.jpeg)
 
+The booking page will have a drop down menu at the top to select what board you would like to hire. Then the calender will load with availiable dates, green for availiable, red for un availiable.
+
 ![Booking Page](/docs/BookingPage.jpeg)
+
+---
 
 ### Planning Methodology
 
@@ -139,14 +168,18 @@ I plan on writing a list of items need to be completed prior to starting, then a
 
 By using GitHub Projects I can drag cards into the In progress or Done columns to keep track of my progress. I find this really helpful because it feels like you are constantly making progress when you get to move cards to the Done column. This is another advantage of breaking things down into small tasks. You get to constantly mark things as Done which keeps motivation high as it feels like progress is constantly being made.
 
+---
+
 ### GitHub Projects Screenshots
 
-![](/docs/GitHub%20Projects%201.png)
+![GitHub Projects 1](/docs/GitHub%20Projects%201.png)
 
-![](/docs/GitHub%20Projects%202.png)
+![GitHub Projects 1](/docs/GitHub%20Projects%202.png)
 
-![](/docs/GitHub%20Projects%203.png)
+![GitHub Projects 1](/docs/GitHub%20Projects%203.png)
 
-![](/docs/GitHub%20Projects%204.png)
+![GitHub Projects 1](/docs/GitHub%20Projects%204.png)
 
-![]()
+![GitHub Projects 1](/docs/GitHub%20Projects%205.png)
+
+---
