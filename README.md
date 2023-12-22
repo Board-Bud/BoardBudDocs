@@ -174,12 +174,47 @@ By using GitHub Projects I can drag cards into the In progress or Done columns t
 
 ![GitHub Projects 1](/docs/GitHub%20Projects%201.png)
 
-![GitHub Projects 1](/docs/GitHub%20Projects%202.png)
+![GitHub Projects 2](/docs/GitHub%20Projects%202.png)
 
-![GitHub Projects 1](/docs/GitHub%20Projects%203.png)
+![GitHub Projects 3](/docs/GitHub%20Projects%203.png)
 
-![GitHub Projects 1](/docs/GitHub%20Projects%204.png)
+![GitHub Projects 4](/docs/GitHub%20Projects%204.png)
 
-![GitHub Projects 1](/docs/GitHub%20Projects%205.png)
+![GitHub Projects 5](/docs/GitHub%20Projects%205.png)
+
+![GitHub Projects 6](/docs/GitHub%20Projects%206.png)
+
+![GitHub Projects 7](/docs/GitHub%20Projects%207.png)
+
+![GitHub Projects 8](/docs/GitHub%20Projects%208.png)
+
 
 ---
+
+### Testing Screenshots
+
+Testing user login  
+URL: http://localhost:3000/auth/login  
+Expected result: Return user JWT token  
+Pass: Yes
+
+![User Login](/docs/User%20Login.png)
+
+Testing JWT is verified and working correctly  
+Pass: Yes
+
+![JWT verified](/docs/JWTverified.png)
+
+Testing CREATE/POST a surfboard
+URL: https://board-bud-c9fcbefcb666.herokuapp.com/surfboards/  
+Expected result: New surfboard data is saved in database and visable on deployed endpoint.  
+Pass: Yes  
+
+![Post test](/docs/deployed%20post%20test.png)
+
+Testing Heroku is running
+
+![Heroku Running](/docs/HerokuRunning.png)
+
+<!-- ![]() -->
+
