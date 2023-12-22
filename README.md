@@ -103,9 +103,15 @@ Nice to haves: These will be features that will be nice to have, if there is eno
 
 7. **Other Technologies:**
 
-- JWT (JSON Web Tokens): For implementing authentication and securing API endpoints. 
 - Figma
 - Draw.io
+
+8. **Dependencies:**
+
+- JWT (JSON Web Tokens): For implementing authentication and securing API endpoints. 
+- Axios: Axios is a popular JavaScript library used to make HTTP requests from browsers or Node.js. It simplifies the process of sending asynchronous HTTP requests to a server and handling the responses. Axios supports Promise-based syntax and provides a clean and easy-to-use interface for performing operations like GET, POST, PUT, and DELETE.
+- http-errors: used to create HTTP errors with a specific HTTP status code and error message.
+- cookie-parser: The cookie-parser middleware in Express.js simplifies the process of parsing and handling cookies in HTTP requests.
 
 ---
 
